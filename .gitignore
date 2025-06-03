@@ -1,0 +1,10 @@
+**/.vscode/
+**/.idea/
+*.iml
+**/.DS_Store
+**/target/
+**/*.class
+**/build/
+**/out/
+**/checkstyle-result.xml
+**/checkstyle-cachefile
