@@ -143,4 +143,4 @@ return total;
 
 Submit screenshot
 
-![LeetCode Screenshot](/images/4.submit.png)
+![LeetCode Screenshot](/images/3dsurfaceArea.png)
