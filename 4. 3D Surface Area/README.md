@@ -40,7 +40,7 @@
 
 Тайлбар:
 
-![LeetCode Screenshot](/images/4. cube.png)
+![LeetCode Screenshot](/images/4.cube.png)
 
 - 1 × 1 × 1 хэмжээтэй шооны гадаргуугийн талбай 6 байна.
 
@@ -59,7 +59,7 @@
 
 Тайлбар:
 
-![LeetCode Screenshot](/images/4. area.png)
+![LeetCode Screenshot](/images/4.area.png)
 
 Гадаргуугийн талбайг тооцоолохдоо босоо, хэвтээ, урд, хойд талуудын нийлбэрийг авна.
 
@@ -143,4 +143,4 @@ return total;
 
 Submit screenshot
 
-![LeetCode Screenshot](/images/4. submit.png)
+![LeetCode Screenshot](/images/4.submit.png)
