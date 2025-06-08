@@ -108,5 +108,5 @@ N хүртэлх тоо бүрийг 0 болтол бууруулахад ша�
 
 ## Submit screenshot
 
-![Submit](/images/24.submit.png)
+![Submit](/images/25.submit.png)
 
